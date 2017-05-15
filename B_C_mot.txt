@@ -1,0 +1,11 @@
+avion
+camion
+voiture
+navire
+velo
+mer
+baton
+pneu
+chien
+chat
+
